@@ -1,0 +1,29 @@
+{
+    "name": "ZK1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "gulp": "^4.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-uglify": "^3.0.1",
+        "gulp-webserver": "^0.9.1",
+        "gulp-clean-css": "^4.0.0",
+        "gulp-sass": "^4.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "gulp dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/songJW0128/ZK1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/songJW0128/ZK1/issues"
+    },
+    "homepage": "https://github.com/songJW0128/ZK1#readme"
+}
